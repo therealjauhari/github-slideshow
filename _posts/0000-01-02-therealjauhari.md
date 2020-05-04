@@ -1,7 +1,8 @@
+Example of 
+--- 
+layout: slide by jauhari
+title: "Welcome to our second slide!" by jauhari
 ---
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Your text by jauhari
+Use the left arrow to go back! by jauhari
 
